@@ -1,4 +1,4 @@
-# Linear Regression using Spark ML
+# Principal Component Analysis using Spark ML
 
 ## How to run?
 Start a Spark Shell session
